@@ -1,5 +1,5 @@
 {
-  "name": "backstopjs",
+  "name": "backstopjs-docker",
   "version": "3.9.4",
   "description": "BackstopJS: Catch CSS curveballs.",
   "bin": {
